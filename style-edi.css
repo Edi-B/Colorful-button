@@ -1,0 +1,14 @@
+.btn-succes
+{
+    background-color: rgb(0, 114, 63);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
