@@ -1,3 +1,20 @@
+body{
+    background-color: grey;
+}
+h1{
+    color:blue;
+}
+.title-red{
+    color: red;
+}
+
+.title-red{
+    color: blue;
+}
+
+
+
+
 .btn-primary{
     background-color: rgb(255, 0, 255);
     color: white;
@@ -5,6 +22,19 @@
     border: none;
     cursor: pointer;
     border-radius: 500px;
+    margin: 10px;
+    width: 250px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.btn-succes-pill{
+    background-color: rgb(56, 51, 56);
+    color: white;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 350px;
     margin: 10px;
     width: 250px;
     font-weight: bold;
